@@ -3,10 +3,10 @@
 
 ## **ÍNDICE**
 
-* [1. Intro](#)
-* [2. Qué construí](#)
-* [3. Objetivo del Proyecto](#)
-* [4. Link a Demo](#)
+* [1. Intro](https://github.com/mfercast/clonaciongoogle/blob/main/README.md#1-intro)
+* [2. Qué construí](https://github.com/mfercast/clonaciongoogle/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
+* [3. Objetivo del Proyecto]([#](https://github.com/mfercast/clonaciongoogle/blob/main/README.md#3-objetivo-del-proyecto))
+* [4. Link a Demo](https://github.com/mfercast/clonaciongoogle/blob/main/README.md#4-link-a-demo)
 
 ****
 
@@ -27,4 +27,4 @@ Contiene las siguientes secciones:
 Aprender a utilizar las etiquetas estándar de HTML5 y CSS3.
 
 ## 4. Link a demo
-Aquí puedes visualizar mi proyecto terminado:(#)
+Aquí puedes visualizar mi proyecto terminado:[Clonación de Google](#)
